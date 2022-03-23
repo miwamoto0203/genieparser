@@ -45,7 +45,7 @@ expected_output = {
                             "active": True,
                             "route_preference": 110,
                             "metric": 1,
-                            "source_protocol_codes": "O",
+                            "source_protocol_codes": "O IA",
                             "source_protocol": "ospf",
                             "next_hop": {
                                 "next_hop_list": {
